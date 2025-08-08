@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurav Chaudhari</h1>
-<h3 align="center">A passionate full-stack developer and CS student</h3>
+<h1 align="center">Hi 👋, I'm Aniket Bagul</h1>
 
 ---
 
@@ -7,24 +6,12 @@
 
 - 🎓 I'm a B.Tech Computer Science student (2023–2027)  
 - 🌱 Currently diving deep into **React**, **Node.js**, and **Data Structures**  
-- 🧠 Solved **100+ DSA problems** across LeetCode, GFG, and others  
 - 🗨️ Ask me about **JavaScript**, **React**, **Node.js** — happy to help!  
 - 💻 Check out all my projects on [My GitHub](https://github.com/your-username)  
-- 📬 Reach me at: **gauravchaudhari7717@gmail.com**  
-- 🤯 Fun fact: There are over **700+ programming languages!**
+- 📬 Reach me at: **abagul631@gmail.com**  
 
 ---
 
-## 🧠 Coding Profiles
-
-- [GeeksforGeeks](#)  
-- [LeetCode](#)  
-- [CodeChef](#)  
-- [HackerRank](#)
-
----
-
-## ⚙️ Tech Stack
 
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
