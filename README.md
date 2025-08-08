@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a B.Tech Computer Science student (2023–2027)  
+- 🎓 I'm a B.E` Information Technology student (2023–2027)  
 - 🌱 Currently diving deep into **React**, **Node.js**, and **Data Structures**  
 - 🗨️ Ask me about **JavaScript**, **React**, **Node.js** — happy to help!  
 - 💻 Check out all my projects on [My GitHub](https://github.com/your-username)  
